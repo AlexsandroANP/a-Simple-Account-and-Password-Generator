@@ -63,3 +63,10 @@ function needPassword() {
   
   document.getElementById('output').innerHTML += "<p style='text-align:right;'>" + passwordString + "</p>";
 }
+
+
+function encryptStringToBase64() {
+  var encryptBase64 = document.getElementById('encryptString').value;
+  var encryptedString = btoa(unescape(encodeURIComponent(encryptBase64)));
+  document.getElementById('output').innerHTML += "<p style='text-align:center;font-style:italic;color: dimgray;'>" + encryptedString + "</p>";
+}
