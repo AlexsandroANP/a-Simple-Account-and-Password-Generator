@@ -1,4 +1,4 @@
-# aSimpleAccountAndPasswordGenerator
+# a Simple Account and Password Generator
 
 Demonstration driven by GitHub Pages: [click here~](https://alexsandroanp.github.io/aSimpleAccountAndPasswordGenerator)
 
