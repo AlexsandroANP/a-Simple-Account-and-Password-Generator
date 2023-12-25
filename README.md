@@ -1,6 +1,6 @@
 # a Simple Account and Password Generator
 
-Demonstration driven by GitHub Pages: [click here~](https://alexsandroanp.github.io/aSimpleAccountAndPasswordGenerator)
+Demonstration driven by GitHub Pages: [click here~](https://alexsandroanp.github.io/a-Simple-Account-and-Password-Generator/)
 
 ## Features
 * Generates strong passwords with uppercase letters, numbers, special characters, and a specific prefix (optional).
